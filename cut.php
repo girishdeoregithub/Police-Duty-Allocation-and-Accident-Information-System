@@ -1,0 +1,1 @@
+<input type="text" name=id size="44" onkeypress="return nval(event);" value=<?php echo $orn;?>>
